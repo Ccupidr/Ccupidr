@@ -7,7 +7,6 @@ Hi, I'm Wang Haoran, a student of Zhejiang University.
 - 🌱 I’m currently learning Rust; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: wanghaorancn@outlook.com
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ccupidr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 📈 My GitHub Stats
 
