@@ -10,6 +10,6 @@ Hi, I'm Wang Haoran, a student of Zhejiang University.
 <br/>
 
 
-<p align="left"> 📈 My GitHub Stats <br/> <img src="https://github-readme-stats.vercel.app/api?username=Ccupidr&show_icons=true&theme=gotham" alt="Ccupidr" />
+<p align="left"> 📈 My GitHub Stats <br/> <img width="70%", height="70%" src="https://github-readme-stats.vercel.app/api?username=Ccupidr&show_icons=true&theme=gotham" alt="Ccupidr" />
   
 
