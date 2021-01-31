@@ -8,8 +8,8 @@ Hi, I'm Wang Haoran, a student of Zhejiang University.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: wanghaorancn@outlook.com
 <br/>
-📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Ccupidr&show_icons=true&theme=gotham" alt="Ccupidr" />
+
+<p align="left"> 📈 My GitHub Stats <br/> <img src="https://github-readme-stats.vercel.app/api?username=Ccupidr&show_icons=true&theme=gotham" alt="Ccupidr" />
   
 
